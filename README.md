@@ -3,11 +3,16 @@
 APP: https://fakenewsprediction-api.herokuapp.com/
 
 # Images
-
+ ![Screenshot (425)](https://user-images.githubusercontent.com/84491967/151144968-40fc4c3c-000a-458f-afe3-7043422081bd.png)
+ 
+ 
+![Screenshot (426)](https://user-images.githubusercontent.com/84491967/151145266-b91d3a25-5e29-4bed-8338-0b227f58a5f6.png)
+![Screenshot (429)](https://user-images.githubusercontent.com/84491967/151145872-9a39a1d5-f713-4e15-9c6a-ef179b58afa6.png)
 
 # Example Newses for looking Fake and Real News in WebApp
 
 1. Election Day: No Legal Pot In Ohio; Democrats Lose In The South
+
 
 2. This time it's true no pantsTweetwave More Of Anthony Weiner's Greatest Hits Users browsing this forum: No registered users and 13 guests Display posts from previous: 
 
