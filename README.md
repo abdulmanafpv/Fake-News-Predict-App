@@ -68,7 +68,9 @@ The Logistic Regression model gives 93.45 accuracy.
 2) Pandas
 3) Scikit-learn
 4) Flask
-5) Heroku
+5) Matplotlib
+6) Numpy
+7) Heroku
 
 
 
