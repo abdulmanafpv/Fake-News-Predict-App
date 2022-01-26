@@ -9,7 +9,7 @@ APP: https://fakenewsprediction-api.herokuapp.com/
 ![Screenshot (426)](https://user-images.githubusercontent.com/84491967/151145266-b91d3a25-5e29-4bed-8338-0b227f58a5f6.png)
 ![Screenshot (429)](https://user-images.githubusercontent.com/84491967/151145872-9a39a1d5-f713-4e15-9c6a-ef179b58afa6.png)
 
-# Example Newses for looking Fake and Real News in WebApp
+# Example News for looking Fake and Real News in WebApp
 
 1. Election Day: No Legal Pot In Ohio; Democrats Lose In The South
 
