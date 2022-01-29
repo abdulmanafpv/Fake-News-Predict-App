@@ -60,7 +60,7 @@ For Creating a model i Used
 
  
 # Result:
-The Logistic Regression model gives 93.45 accuracy.
+The Passive Aggressive Classifier model gives 93.45 accuracy.
 
 # Tools Used
 
