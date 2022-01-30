@@ -41,7 +41,7 @@ Link of Test Data: https://drive.google.com/file/d/1wvyc5-hDMrpNzCFMxinL2WE8LI3B
 
 # About
 
-This is a American News data set, and we Create a API to predict the Fake News.
+This is a American News data set, and I Create a API to predict the Fake News.
 
 # Objective: 
 Create a App  to predict the Fake News
