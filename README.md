@@ -71,7 +71,8 @@ The Passive Aggressive Classifier model gives 93.45 accuracy.
 4) Flask
 5) Matplotlib
 6) Numpy
-7) Heroku
+7) Pickle
+8) Heroku
 
 
 
