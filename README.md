@@ -37,7 +37,7 @@ APP: https://fakenewsprediction-api.herokuapp.com/
 12. The Russian President Vladimir Putin has shown that he has never been afraid of fighting several opponents on different fronts. Now, it appears that he has a new target in his 
 
 ## NB: For more Datas use test data
-Link of Test Data: https://drive.google.com/file/d/1wvyc5-hDMrpNzCFMxinL2WE8LI3BcQ92/view?usp=drivesdk
+Link of Test Data: https://drive.google.com/file/d/19fhEZWxvqjtt-CnmjaDIjUo8Z8uzhX0Y/view?usp=drivesdk
 
 # About
 
