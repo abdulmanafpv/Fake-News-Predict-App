@@ -66,13 +66,14 @@ The Passive Aggressive Classifier model gives 93.45 accuracy.
 # Tools Used
 
 1) Python
-2) Pandas
-3) Scikit-learn
-4) Flask
-5) Matplotlib
-6) Numpy
-7) Pickle
-8) Heroku
+2) HTML5
+3) Pandas
+4) Scikit-learn
+5) Flask
+6) Matplotlib
+7) Numpy
+8) Pickle
+9) Heroku
 
 
 
