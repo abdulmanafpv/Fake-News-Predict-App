@@ -84,7 +84,7 @@ The Passive Aggressive Classifier model gives 93.45 accuracy.
 ![big_thumb](https://user-images.githubusercontent.com/84491967/168413719-d27c314b-2157-4753-9ce7-facfbc044bd9.jpg)
 ![Screenshot (157)](https://user-images.githubusercontent.com/84491967/140642806-d77b4a89-7c81-4fd7-83da-2c1f694212f6.png)
 ![images (1)](https://user-images.githubusercontent.com/84491967/168414158-c709e329-e809-4584-974f-510eaf0f0d9d.jpg)
-![download](https://user-images.githubusercontent.com/84491967/151147584-92977d2b-82a1-43b7-9bf9-1e66c1b3c7a9.jpg)
+![logo-flask](https://user-images.githubusercontent.com/84491967/168413929-106a658d-ef3b-4aa4-adbd-83069a80ecd8.png)
 ![heroku](https://user-images.githubusercontent.com/84491967/168414924-05b9fb48-456d-47a0-a65b-f136f3335b40.jpg)
 
 
